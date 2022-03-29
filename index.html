@@ -5,11 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Hand In Hand</title>
+    <!-- Link to CSS file -->
     <link rel="stylesheet" href="style.css" />
+    <!-- Link to font -->
     <link
       href="https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@100;200;500;700;900&display=swap"
       rel="stylesheet"
     />
+    <!-- Link to font-awsome -->
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -23,6 +26,7 @@
         <div class="nav-links" id="navLinks">
           <!-- Icon Nav-Link -->
           <i class="fa fa-times" onclick="hideMenu()"></i>
+          <!-- Menu to anchor tags -->
           <ul>
             <li><a href="#home">HOME</a></li>
             <li><a href="#activities">ACTIVITIES</a></li>
@@ -44,11 +48,11 @@
         <p>
           “Difficult roads lead to beautiful destinations.”
         </p>
-        <!-- button to expedition -->
+        <!-- Hero-button anchor tag -->
         <a href="#subscribe" class="hero-btn">SUBSCRIBE</a>
       </div>
     </section>
-    <!----------activities section------->
+    <!----------Activities-Section------->
 
     <section id="activities">
       <h1>Activities</h1>
@@ -82,7 +86,7 @@
         </div>
       </div>
     </section>
-    <!-----------destinations section------------->
+    <!-----------Destinations-Section------------->
     <section class="expeditions" id="expeditions">
       <h1><i class="fa fa-calendar"><br></i> Previous Expeditions</i></h1>
       <p>
@@ -116,7 +120,7 @@
         </div>
       </div>
     </section>
-    <!----------About-section------->
+    <!----------About-Section------->
     <section class="about" style="text-align: center" id="about">
       <div class="about">
         <h1>About Us</h1>
@@ -131,6 +135,7 @@
           more motivated to protect them.
         </p>
       </div>
+        <!----------Team-Section------->
       <h1>Our Team</h1>
       <div class="row">
         <div class="column">
@@ -165,7 +170,7 @@
         </div>
       </div>
     </section>
-    <!---------Javascript for toggle Menu--------->
+    <!---------Javascript--------->
     <script>
       //* Toggle Menu*//
       var navLinks = document.getElementById("navLinks");
@@ -176,7 +181,7 @@
       function hideMenu() {
         navLinks.style.right = "-200px";
       }
-      //* Top Button Scroll*//
+      //* Top Button Scroll-Top*//
       var mybutton = document.getElementById("myBtn");
 
       // When the user scrolls down 20px from the top of the document, show the button
@@ -201,6 +206,7 @@
         document.documentElement.scrollTop = 0;
       }
     </script>
+    <!----------Contact-Details-Section------->
     <section id="contact" style="text-align: center ;">
       <h1>Contact Us</h1>
       <div>
@@ -210,7 +216,7 @@
         <i class="fa fa-envelope"><span></span> afiayoub@gmail.com</i><br />
       </div>
     </section><br>
-    <!---------Newsletter section--------->
+    <!---------Newsletter-Section--------->
     <section>
       <h3>Subscribe to our newsletter</h3>
       <form action="https://formdump.codeinstitute.net/" method="post" id="subscribe">
@@ -223,6 +229,8 @@
     </form>
     </section>
   </body>
+    <!----------Footer-section------->
+
   <div class="footer">
     <p>Copyright 2022</p>
   </div>

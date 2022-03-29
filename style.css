@@ -55,7 +55,7 @@ nav img {
 .nav-links ul li:hover::after{
     width: 100%;
 }
-/*-------hero-section-------*/
+/*-------Hero-Text-section-------*/
 .text-box{
     width: 90%;
     color: rgb(255, 253, 253);
@@ -75,6 +75,7 @@ nav img {
     font-size: 20px;
     counter-reset: rgb(255, 255, 255);
 }
+/*-------Hero-button-section-------*/
 
 .hero-btn{
     display: inline-block;
@@ -93,11 +94,12 @@ nav img {
     background: #42adbb;
     transition: 0.5s;
 }
+/*-------Icon (Hide when max-with is more than 700px)-------*/
 
 nav .fa{
     display: none;
 }
-/*-------Responsive-Menu-section-------*/
+/*-------Responsive Web Design Media Queries-------*/
 @media(max-width: 700px){
     .text-box h1{
         font-size: 20px;
@@ -154,7 +156,7 @@ nav .fa{
     clear: both;
     display: table;
   }
-  /*-------Media Query for responsive -------*/
+/*-------Responsive Web Design Media Queries-------*/
   @media screen and (max-width: 700px) {
     .column {
       width: 97%;
@@ -278,7 +280,7 @@ h3{
     bottom: 0;
 
 }
-/*-------footer-section-------*/
+/*-------Footer-section-------*/
 .footer {
     position: relative;
     margin-top: 50px;
@@ -290,7 +292,7 @@ h3{
     text-align: left;
     border-radius: 25px 25px 0px 0px;
   }
-/*-------Top-button-section-------*/
+/*-------Scroll Back To Top Button-------*/
   #myBtn {
     display: none;
     position: fixed;
@@ -311,7 +313,7 @@ h3{
     background-color: #555;
   }
 
-/*-------CONTACT-section-------*/
+/*-------Contact-Newsletter-section-------*/
 
 form{
     text-align: center;
