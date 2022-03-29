@@ -1,5 +1,5 @@
 
- * Introduction
+ * Introduction <br>
 Hand in hand is a single web application which serve sustainable tourism, the main purpose of this application is to promote sustainable tourism and also a great open source solution for similar activity.
 ### Home Page:
 
@@ -26,12 +26,12 @@ Hand in hand is a single web application which serve sustainable tourism, the ma
 ### Mobile friendly:
 <p align="center"><img src="./readme_assets/responsive.png"></p>
 
- * Recommended modules
+ * Recommended modules<br>
 In order to run this application, your browser should have :
  - Css
  - Html
  - Javascript
 
- * Installation
+ * Installation <br>
 In order to use this software, open index.html in a web browser (depending on your operating system or computer settings, you can either double click the file and it should automatically open in your default browser or right click the file and choose “open with” and then select your browser).
 
