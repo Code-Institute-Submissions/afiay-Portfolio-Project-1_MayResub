@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hand In Hand</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@100;200;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <!-- Header-Section -->
+    <section class="header" id="home">
+      <nav>
+        <a href="index.html"><img src="images/logo.png" alt="" /></a>
+        <div class="nav-links" id="navLinks">
+          <!-- Icon Nav-Link -->
+          <i class="fa fa-times" onclick="hideMenu()"></i>
+          <ul>
+            <li><a href="#home">HOME</a></li>
+            <li><a href="#activities">ACTIVITIES</a></li>
+            <li><a href="#expeditions">EXPEDITIONS</a></li>
+            <li><a href="#about">ABOUT US</a></li>
+            <li><a href="#contact">CONTACT</a></li>
+          </ul>
+        </div>
+        <!-- Icon Nav-Link -->
+        <i class="fa fa-bars" onclick="showMenu()"></i>
+        <!-- Go to top button -->
+        <button onclick="topFunction()" id="myBtn" title="Go to top">
+          Top
+        </button>
+      </nav>
+      <!-- Header Text-section -->
+      <div class="text-box">
+        <h1>Hand In Hand</h1>
+        <p>
+          “Difficult roads lead to beautiful destinations.”
+        </p>
+        <!-- button to expedition -->
+        <a href="#subscribe" class="hero-btn">SUBSCRIBE</a>
+      </div>
+    </section>
+    <!----------activities section------->
+
+    <section id="activities">
+      <h1>Activities</h1>
+      <p>
+        Join us and see how our destinations are making tourism more sustainable.<br> Join us on our mission to reach responsible tourism everywhere, hand in hand.
+      </p>
+      <div class="row">
+        <div class="activities-col">
+          <h3>Woofing</h3>
+          <p>
+            Live and learn on organic and sustainable properties. Volunteer exchange on sustainable and organic farms and properties. 
+          </p>
+        </div>
+        <div class="activities-col">
+          <h3>Ocean Cleanup</h3>
+          <p>
+            10 Million Tons of Plastic Enter the Ocean Every Year. Hand in hand Has a Way to Clean it Up.
+          </p>
+        </div>
+        <div class="activities-col">
+          <h3>Volunteering</h3>
+          <p>
+            Come and live in community in the middle of the wild forest and see how we realise our dream of living a simple life in the forest in close contact with the land and each other. 
+          </p>
+        </div>
+        <div class="activities-col">
+          <h3>Workshops</h3>
+          <p>
+            Our programme will bring panel discussions, interactive workshops, sharing and reflective exercises, connective dance and meditation, so together we can explore ...
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-----------destinations section------------->
+    <section class="expeditions" id="expeditions">
+      <h1><i class="fa fa-calendar"><br></i> Previous Expeditions</i></h1>
+      <p>
+        When you join one of our expeditions, you won’t travel like an ordinary
+        tourist. Instead, you’ll visit a Hand In Hand project and meet local
+        people. Most important, you’ll see how we’re making a difference, both
+        by conserving habitats and helping communities. Here are just a few
+        highlights.
+      </p>
+      <div class="row">
+        <div class="expeditions-col">
+          <img src="images/img3.jpg" alt="" />
+          <div class="layer">
+            <h3>Uganda</h3>
+            <p class="date"><i class="fa fa-calendar"><br></i> 8 Juin 2018</p>
+          </div>
+        </div>
+        <div class="expeditions-col">
+          <img src="images/img4.jpg" alt="" />
+          <div class="layer">
+            <h3>Tunisia</h3>
+            <p class="date"><i class="fa fa-calendar"><br></i> 25 January 2020</p>
+          </div>
+        </div>
+        <div class="expeditions-col">
+          <img src="images/img2.jpg" alt="" />
+          <div class="layer">
+            <h3>Serbia</h3>
+            <p class="date"><i class="fa fa-calendar"><br></i> 10 September 2015</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!----------About-section------->
+    <section class="about" style="text-align: center" id="about">
+      <div class="about">
+        <h1>About Us</h1>
+        <p>
+          Hand In Hand has led dozens of trips around the world, introducing
+          hundreds of people to new cultures and helping them experience
+          awe-inspiring landscapes and wildlife.
+          What started as a plan of necessity came to define the Hand In Hand
+          model: Provide a material benefit to a village that pledges to protect
+          its natural resources.
+          This way, local people keep ownership of their own lands and are even
+          more motivated to protect them.
+        </p>
+      </div>
+      <h1>Our Team</h1>
+      <div class="row">
+        <div class="column">
+          <div class="card">
+            <img src="images/img7.png" alt="Jane" style="width: 80%" />
+            <div class="container">
+              <h2>Ayoub Afi</h2>
+              <p class="title">Founder</p>
+              <p>afiayoub@gmail.com</p>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <img src="images/img8.png" alt="Mike" style="width: 80%" />
+            <div class="container">
+              <h2>Alaa Brahim</h2>
+              <p class="title">Co-Founder</p>
+              <p>ala1388@hotmail.com</p>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <img src="images/img9.png" alt="John" style="width: 80%" />
+            <div class="container">
+              <h2>Hayette Ben Hassen</h2>
+              <p class="title">Co-Founder</p>
+              <p>benhassenh@gmail.com</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!---------Javascript for toggle Menu--------->
+    <script>
+      //* Toggle Menu*//
+      var navLinks = document.getElementById("navLinks");
+
+      function showMenu() {
+        navLinks.style.right = "0";
+      }
+      function hideMenu() {
+        navLinks.style.right = "-200px";
+      }
+      //* Top Button Scroll*//
+      var mybutton = document.getElementById("myBtn");
+
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function () {
+        scrollFunction();
+      };
+
+      function scrollFunction() {
+        if (
+          document.body.scrollTop > 20 ||
+          document.documentElement.scrollTop > 20
+        ) {
+          mybutton.style.display = "block";
+        } else {
+          mybutton.style.display = "none";
+        }
+      }
+
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+    </script>
+    <section id="contact" style="text-align: center ;">
+      <h1>Contact Us</h1>
+      <div>
+
+        <i class="fa fa-map-marker"><span></span> Fridhemsgatan 20, 11240 Stockholm</i><br />
+        <i class="fa fa-mobile"><span></span> +123456789</i><br />
+        <i class="fa fa-envelope"><span></span> afiayoub@gmail.com</i><br />
+      </div>
+    </section><br>
+    <!---------Newsletter section--------->
+    <section>
+      <h3>Subscribe to our newsletter</h3>
+      <form action="https://formdump.codeinstitute.net/" method="post" id="subscribe">
+        <input type="email" id="email" name="email" placeholder="Your Email...">
+            <button type="submit" value="submit">
+                <strong>Subscribe</strong>
+            </button><br>
+            <h6><input type="checkbox" name="event" value="event">
+             I would like to be informed about the upcoming events</h6>
+    </form>
+    </section>
+  </body>
+  <div class="footer">
+    <p>Copyright 2022</p>
+  </div>
+</html>
