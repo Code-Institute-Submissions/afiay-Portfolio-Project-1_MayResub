@@ -4,9 +4,9 @@
 Hand in hand is a single web application which serve sustainable tourism, the main purpose of this application is to promote sustainable tourism in the rural area.
 
 
-### Home Page:
 
-<p align="center"><img src="./readme_assets/home.jpg"></p>
+
+<p align="center">### Home Page:<img src="./readme_assets/home.jpg"></p>
 
 ### Activities Page:
 
