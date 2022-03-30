@@ -1,7 +1,7 @@
 
  * Introduction <br>
  Interactive Front-End web application using HTML and CSS based on the principles of user experience design, accessibility and responsivity.
-Hand in hand is a single web application which serve sustainable tourism, the main purpose of this application is to promote sustainable tourism.
+Hand in hand is a single web application which serve sustainable tourism, the main purpose of this application is to promote sustainable tourism in the rural area.
 
 
 ### Home Page:
