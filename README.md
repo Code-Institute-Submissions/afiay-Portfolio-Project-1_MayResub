@@ -27,7 +27,7 @@ Hand in hand is a single web application which serve sustainable tourism, the ma
 <p align="center"><img src="./readme_assets/contact.jpg"></p>
 
 ### Mobile friendly:
-<p align="center"><img src="./readme_assets/responsive.png"></p>
+<p align="left"><img src="./readme_assets/responsive.png"></p>
 
  * Recommended modules<br>
 In order to run this application, your browser should have :
