@@ -271,9 +271,8 @@ h3{
 }
 
 
-.layer:hover h3{
+.layer:hover h2{
     bottom: 49%;
-    opacity: 100%;
 }
 .date{
     position: relative;
