@@ -102,7 +102,8 @@ nav .fa{
 /*-------Responsive Web Design Media Queries-------*/
 @media(max-width: 700px){
     .text-box h1{
-        font-size: 20px;
+        font-size: 55px;
+        text-transform: uppercase;
     }
     .nav-links ul li{
         display: flexbox;
@@ -138,8 +139,10 @@ nav .fa{
   
   .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    margin: 8px;
+    width: 80%;
+    margin-left: 40px;
     text-align: center;
+
   }
   
   .about {
@@ -179,6 +182,7 @@ h1{
     padding-top: 100px;
     font-weight: 600;
     text-align: center;
+    text-transform: uppercase;
 }
 p{
     color: #777;
@@ -316,7 +320,9 @@ h3{
   }
 
 /*-------Contact-Newsletter-section-------*/
-
+#contact {
+    padding-top: 10px;
+}
 form{
     text-align: center;
 }
