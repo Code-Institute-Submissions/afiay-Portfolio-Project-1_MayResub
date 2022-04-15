@@ -143,9 +143,10 @@ nav .fa{
   }
   
   .about {
-    padding: 10px;
+    padding: 0px;
     background-color: #e8ecf3;
-    margin: auto;
+    padding-bottom: 140px;
+    padding-top: 80px;
   }
   
   .container {
@@ -226,7 +227,7 @@ h3{
     width: 80%;
     margin:auto;
     text-align: center;
-    padding-top: -10px;
+    padding-bottom: 100px;
 }
 .expeditions-col{
     flex-basis: 32%;
@@ -257,7 +258,7 @@ h3{
     opacity: 30%;
 }
 
-.layer h2{
+.layer h3{
     width: 100%;
     font-weight: 500;
     color: #fff;
@@ -271,8 +272,9 @@ h3{
 }
 
 
-.layer:hover h2{
+.layer:hover h3{
     bottom: 49%;
+    opacity: 100%;
 }
 .date{
     position: relative;
