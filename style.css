@@ -326,12 +326,14 @@ footer {
 /*-------Contact-Newsletter-section-------*/
 #contact {
     padding-bottom: 180px;
+    font-size: 10px;
+    margin: 5px;
 }
 form{
     text-align: center;
 }
 h6{
     text-align: center;
-    font-size: 10px;
-    margin: 5px;
+
 }
+
