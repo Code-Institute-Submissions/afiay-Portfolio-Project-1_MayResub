@@ -46,7 +46,6 @@ In order to use this software, open index.html in a web browser (depending on yo
     </a>
 </p>
             
-Valid CSS!
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
