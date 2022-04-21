@@ -73,7 +73,6 @@ nav img {
 .text-box p{
     margin: 10px 0 40px;
     font-size: 20px;
-    counter-reset: rgb(255, 255, 255);
 }
 /*-------Hero-button-section-------*/
 
@@ -106,7 +105,6 @@ nav .fa{
         text-transform: uppercase;
     }
     .nav-links ul li{
-        display: flexbox;
         padding: 10px;
     }
     .nav-links{

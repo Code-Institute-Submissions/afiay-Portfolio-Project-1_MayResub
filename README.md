@@ -38,3 +38,19 @@ In order to run this application, your browser should have :
  * Installation <br>
 In order to use this software, open index.html in a web browser (depending on your operating system or computer settings, you can either double click the file and it should automatically open in your default browser or right click the file and choose “open with” and then select your browser).
 
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+            
+Valid CSS!
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
