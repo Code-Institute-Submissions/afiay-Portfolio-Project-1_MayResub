@@ -1,5 +1,5 @@
 
- * Introduction <br>
+### Introduction:
  Interactive Front-End web page using HTML and CSS based on the principles of user experience design, accessibility and responsivity.
 Hand in hand is a single web page which serve sustainable tourism, the main purpose of this web-page is to promote sustainable tourism in the rural area.
 
