@@ -151,7 +151,13 @@ nav .fa{
     padding-bottom: 140px;
     padding-top: 80px;
   }
-  
+  @media screen and (max-width: 700px) {
+    .about {
+        padding-top: 10px;
+        background-color: #e8ecf3;
+
+    }
+  }
   .container {
     padding: 0 16px;
   }
@@ -321,12 +327,13 @@ footer {
 
 /*-------Contact-Newsletter-section-------*/
 #contact {
-    padding-top: 10px;
+    padding-bottom: 180px;
 }
 form{
     text-align: center;
 }
-form h6{
+h6{
+    text-align: center;
     font-size: 10px;
     margin: 5px;
 }
