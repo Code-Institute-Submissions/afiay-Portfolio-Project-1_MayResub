@@ -13,9 +13,6 @@ Hand in hand is a single web page which serve sustainable tourism, the main purp
 <p align="center"><img src="./readme_assets/activities.jpg"></p>
 
 
-### About Us Page:
-
-
 ### Contact and Newsletter Page:
 
 <p align="center"><img src="./readme_assets/contact.jpg"></p>
