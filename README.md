@@ -1,7 +1,7 @@
 
  * Introduction <br>
- Interactive Front-End web application using HTML and CSS based on the principles of user experience design, accessibility and responsivity.
-Hand in hand is a single web application which serve sustainable tourism, the main purpose of this application is to promote sustainable tourism in the rural area.
+ Interactive Front-End web page using HTML and CSS based on the principles of user experience design, accessibility and responsivity.
+Hand in hand is a single web page which serve sustainable tourism, the main purpose of this web-page is to promote sustainable tourism in the rural area.
 
 
 ### Home Page:
@@ -28,15 +28,6 @@ Hand in hand is a single web application which serve sustainable tourism, the ma
 
 ### Mobile friendly:
 <p align="left"><img src="./readme_assets/responsive.png"></p>
-
- * Recommended modules<br>
-In order to run this application, your browser should have :
- - Css
- - Html
- - Javascript
-
- * Installation <br>
-In order to use this software, open index.html in a web browser (depending on your operating system or computer settings, you can either double click the file and it should automatically open in your default browser or right click the file and choose “open with” and then select your browser).
 
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
