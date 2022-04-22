@@ -1,23 +1,23 @@
 
-### Introduction:
+## Introduction:
  Static front-end site using HTML and CSS based on the principles of user experience design, accessibility and responsivity.
 Hand in hand is a single web page which serve sustainable tourism, the main purpose of this web-page is to promote sustainable tourism in the rural area.
 
 
-### Home Page:
+## Home Page
 
 <p align="center"><img src="./readme_assets/home.jpg"></p>
 
-### Activities Page:
+## Activities Page
 
 <p align="center"><img src="./readme_assets/activities.jpg"></p>
 
 
-### Contact and Newsletter Page:
+## Contact and Newsletter Page:
 
 <p align="center"><img src="./readme_assets/contact.jpg"></p>
 
-### Mobile friendly:
+## Mobile friendly
 <p align="left"><img src="./readme_assets/responsive.png"></p>
 
 ## Deployment
