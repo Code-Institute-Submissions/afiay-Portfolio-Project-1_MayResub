@@ -20,6 +20,16 @@ Hand in hand is a single web page which serve sustainable tourism, the main purp
 ### Mobile friendly:
 <p align="left"><img src="./readme_assets/responsive.png"></p>
 
+## Deployment
+
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://afiay.github.io/Portfolio-Project-1/
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
