@@ -1,6 +1,6 @@
 
 ### Introduction:
- Interactive Front-End web page using HTML and CSS based on the principles of user experience design, accessibility and responsivity.
+ Static front-end site using HTML and CSS based on the principles of user experience design, accessibility and responsivity.
 Hand in hand is a single web page which serve sustainable tourism, the main purpose of this web-page is to promote sustainable tourism in the rural area.
 
 
@@ -26,9 +26,6 @@ Hand in hand is a single web page which serve sustainable tourism, the main purp
             src="https://jigsaw.w3.org/css-validator/images/vcss"
             alt="Valid CSS!" />
     </a>
-</p>
-            
-<p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
