@@ -322,8 +322,11 @@ h6{
 }
 table {
     width:53%; 
-    margin-left:22%; 
-    margin-right:20%;
+    margin-left:32%; 
+    margin-right:32%;
+}
+th,td{
+    text-align: left;
 }
 /*-------social-icons-------*/
 .social-list li {
