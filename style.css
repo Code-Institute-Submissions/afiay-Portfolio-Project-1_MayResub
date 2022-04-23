@@ -134,7 +134,7 @@ nav .fa{
 /*-------About-section-------*/
 .column {
     float: center;
-    width: 33.3%;
+    width: 33%;
     padding: 0 8px;
   }
   
@@ -321,9 +321,10 @@ h6{
     margin: 5px;
 }
 table {
-    width:53%; 
+    width:40%; 
     margin-left:32%; 
     margin-right:32%;
+    font-size: 14px;
 }
 th,td{
     text-align: left;
