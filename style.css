@@ -148,12 +148,13 @@ nav .fa{
   }
   
   .about {
+    padding: 0px;
     background-color: #e8ecf3;
     padding: 50px 50px 150px 50px;
   }
   @media screen and (max-width: 700px) {
     .about {
-        padding: 0px;
+        padding-top: 10px;
         background-color: #e8ecf3;
 
     }
@@ -262,10 +263,12 @@ h3{
     left: 0;
     transition: 0.5s;
 }
+
 .layer:hover{
     background: rgba(226, 0, 0, 0.411);
     opacity: 30%;
 }
+
 .layer h3{
     width: 100%;
     font-weight: 500;
@@ -278,25 +281,24 @@ h3{
     opacity: 0;
     transition: 0.5s;
 }
+
+
 .layer:hover h3{
     bottom: 49%;
     opacity: 100%;
 }
-/*-------Social-icon-------*/
-.fa-github, .fa-facebook {
-    padding: 10px;
-    text-decoration: none ;
-    color: #42adbb;
-    text-align: center;
-}
-.fa:hover {
-    opacity: 0.7;
-    transition: 0.5s;
+.date{
+    position: relative;
+    color: rgb(209, 209, 209);
+    bottom: 0;
+
 }
 /*-------Footer-section-------*/
 footer {
     position: relative;
     margin-top: 50px;
+    left: 0;
+    bottom: 0;
     width: 100%;
     background-color: #e8ecf3;
     color: white;
