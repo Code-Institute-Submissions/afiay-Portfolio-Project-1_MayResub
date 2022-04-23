@@ -321,13 +321,24 @@ h6{
     margin: 5px;
 }
 table {
-    width: 48%;
-    margin-left: 32%;
-    margin-right: 36%;
+    width: 28%;
+    margin-left: 40%;
     font-size: 12px;
 }
 th,td{
     text-align: left;
+}
+/*-------Media query for responsive content-------*/
+@media(max-width: 700px){
+    table {
+        width: 48%;
+        margin-left: 32%;
+        margin-right: 36%;
+        font-size: 12px;
+    }
+    th,td{
+        text-align: left;
+    }
 }
 /*-------social-icons-------*/
 .social-list li {
