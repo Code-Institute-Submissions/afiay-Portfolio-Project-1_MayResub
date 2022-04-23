@@ -287,12 +287,6 @@ h3{
     bottom: 49%;
     opacity: 100%;
 }
-.date{
-    position: relative;
-    color: rgb(209, 209, 209);
-    bottom: 0;
-
-}
 /*-------Scroll Back To Top Button-------*/
   #myBtn {
     display: none;
