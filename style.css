@@ -153,7 +153,6 @@ nav .fa{
   }
   @media screen and (max-width: 700px) {
     .about {
-        padding-top: 10px;
         background-color: #e8ecf3;
         padding: 10px 20px 120px 10px;
 
