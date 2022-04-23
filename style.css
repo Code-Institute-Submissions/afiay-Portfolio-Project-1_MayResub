@@ -150,6 +150,8 @@ nav .fa{
   .about {
     background-color: #e8ecf3;
     min-height: 100vh;
+    padding-left: 150px;
+    padding-right: 150px;
   }
   @media screen and (max-width: 700px) {
     .about {
