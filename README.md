@@ -31,7 +31,7 @@ The live link can be found here - https://afiay.github.io/Portfolio-Project-1/
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
-            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            src="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fafiay.github.io%2FPortfolio-Project-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en"
             alt="Valid CSS!" />
     </a>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
