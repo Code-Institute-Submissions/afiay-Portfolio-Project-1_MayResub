@@ -41,7 +41,7 @@ The project uses JavaScript.
 
 
 ## Testing
-<b>Google Developer Tools<b/>
+Google Developer Tools<br>
  For every step along the project developement i have inspect and edited the style using Google developer tools. I also checked the accessibility of the page using Lighthouse.
  <p align="left"><img src="./readme_assets/lighthouse.jpg"></p>
  <p align="left"><img src="./readme_assets/performance.jpg"></p>
