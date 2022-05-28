@@ -29,6 +29,37 @@ Hand in hand is a single web page which serve sustainable tourism, the main purp
 
 The live link can be found here - https://afiay.github.io/Portfolio-Project-1/
 
+## Technology used 
+HTML, CSS and Javascript
+
+## Technology used 
+
+- HTML5
+The project uses HyperText Markup Language.
+
+- CSS3
+The project uses Cascading Style Sheets.
+
+- JavaScript
+The project uses JavaScript.
+
+
+## Testing
+<b>Google Developer Tools<b/>
+ For every step along the project developement i have inspect and edited the style using Google developer tools. I also checked the accessibility of the page using Lighthouse.
+ <p align="left"><img src="./readme_assets/lighthouse.jpg"></p>
+ <p align="left"><img src="./readme_assets/performance.jpg"></p>
+ <p align="left"><img src="./readme_assets/Metrics.jpg"></p>
+ 
+## Responsive Tools
+I used responsivedesignchecker.com to make sure that all my pages are responsive to all devices.
+
+W3C Validator Tools
+HTML and CSS:
+I used W3C Markup to check for any errors within the HTML pages.
+
+All errors were minimal eg. Whitespace
+ 
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
